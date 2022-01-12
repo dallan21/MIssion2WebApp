@@ -11,7 +11,6 @@
     <Content Remove="wwwroot\lib\jquery\" />
     <Content Remove="wwwroot\lib\bootstrap\" />
     <Content Remove="wwwroot\img\" />
-    <Content Remove="wwwroot\index.html" />
     <Content Remove="wwwroot\favicon\" />
     <Content Remove="wwwroot\js\" />
   </ItemGroup>
@@ -24,8 +23,16 @@
     <Folder Include="wwwroot\img\" />
     <Folder Include="wwwroot\favicon\" />
     <Folder Include="wwwroot\js\" />
+    <Folder Include="Views\" />
+    <Folder Include="Contorllers\" />
+    <Folder Include="Models\" />
+    <Folder Include="Views\blahcontroller\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="wwwroot\index.html" />
+    <None Remove="Views\" />
+    <None Remove="Views\SubView\" />
+    <None Remove="Contorllers\" />
+    <None Remove="Models\" />
+    <None Remove="Views\blahcontroller\" />
   </ItemGroup>
 </Project>

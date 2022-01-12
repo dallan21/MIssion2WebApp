@@ -18,3 +18,14 @@
 /Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.dll
 /Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.pdb
 /Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.genruntimeconfig.cache
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/bin/Debug/netcoreapp3.1/Mission2WebApp.Views.dll
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/bin/Debug/netcoreapp3.1/Mission2WebApp.Views.pdb
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.RazorAssemblyInfo.cache
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.RazorAssemblyInfo.cs
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.TagHelpers.input.cache
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.TagHelpers.output.cache
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.RazorCoreGenerate.cache
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.RazorTargetAssemblyInfo.cs
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.Views.pdb
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.csproj.CopyComplete
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Razor/Views/blahcontroller/Index.cshtml.g.cs
