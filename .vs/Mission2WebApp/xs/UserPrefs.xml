@@ -1,23 +1,14 @@
-﻿<Properties StartupConfiguration="{FCE99E0B-7818-4B1E-910A-965812F1B311}|Default">
-  <MonoDevelop.Ide.ItemProperties.Mission2WebApp PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission2WebApp/Contorllers/blahcontroller.cs">
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission2WebApp/Startup.cs">
     <Files>
-      <File FileName="Mission2WebApp/Startup.cs" Line="33" Column="43" />
-      <File FileName="Mission2WebApp/Views/blahcontroller/Index.cshtml" Line="7" Column="1" />
-      <File FileName="Mission2WebApp/Contorllers/blahcontroller.cs" Line="1" Column="1" />
+      <File FileName="Mission2WebApp/Startup.cs" Line="45" Column="2" />
+      <File FileName="Mission2WebApp/Contorllers/blahcontroller.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Mission2WebApp" expanded="True">
-            <Node name="Mission2WebApp" expanded="True">
-              <Node name="Contorllers" expanded="True">
-                <Node name="blahcontroller.cs" selected="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="blahcontroller" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="Mission2WebApp" selected="True" />
           </Node>
         </State>
       </Pad>

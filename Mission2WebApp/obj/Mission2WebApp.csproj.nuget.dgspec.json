@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/Mission2WebApp.csproj": {}
+    "/Users/dallanhernandez/Projects/Mission2WebApp/Mission2WebApp/Mission2WebApp.csproj": {}
   },
   "projects": {
-    "/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/Mission2WebApp.csproj": {
+    "/Users/dallanhernandez/Projects/Mission2WebApp/Mission2WebApp/Mission2WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/Mission2WebApp.csproj",
+        "projectUniqueName": "/Users/dallanhernandez/Projects/Mission2WebApp/Mission2WebApp/Mission2WebApp.csproj",
         "projectName": "Mission2WebApp",
-        "projectPath": "/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/Mission2WebApp.csproj",
+        "projectPath": "/Users/dallanhernandez/Projects/Mission2WebApp/Mission2WebApp/Mission2WebApp.csproj",
         "packagesPath": "/Users/dallanhernandez/.nuget/packages/",
-        "outputPath": "/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/",
+        "outputPath": "/Users/dallanhernandez/Projects/Mission2WebApp/Mission2WebApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/dallanhernandez/.config/NuGet/NuGet.Config"

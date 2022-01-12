@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <Content Remove="wwwroot\" />
     <Content Remove="wwwroot\css\" />
@@ -35,4 +36,6 @@
     <None Remove="Models\" />
     <None Remove="Views\blahcontroller\" />
   </ItemGroup>
+=======
+>>>>>>> parent of 258ee12 (second commit)
 </Project>
