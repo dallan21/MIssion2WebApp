@@ -30,7 +30,7 @@ namespace Mission2WebApp
             {
                 endpoints.MapControllerRoute(
                     name: "default" ,
-                    pattern: "{controller-blah}/{action=Index}/{id?}"
+                    pattern: "{controller=blah}/{action=Index}/{id?}"
                     );
             });
 
