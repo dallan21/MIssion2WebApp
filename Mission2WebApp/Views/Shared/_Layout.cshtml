@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+    <!--Connecting my css files/filders-->
+    <link href="css/default.css" rel="stylesheet" />
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!--Putting in the favicon (picture of myself)-->
+    <link rel="icon" type="image/x-icon" href="favicon/Favicon/favicon_io/favicon.ico" />
+</head>
+<body>
+
+    <a asp-controller="blah" asp-action="Index">Home</a>
+    <a asp-controller="blah" asp-action="Grade_Calc">Grade Calculator</a>
+    <div>
+        @RenderBody()
+    </div>
+
+    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="lib/jquery/jquery-3.6.0.min.js"></script>
+
+</body>
+</html>

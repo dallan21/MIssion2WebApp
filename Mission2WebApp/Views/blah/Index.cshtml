@@ -2,72 +2,33 @@
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
-
+    ViewData["Title"] = "Welcome to my mission 3 web app";
 }
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8" />
-    <title>Mission 2 Web App</title>
-    <!--Connecting my css files/filders-->
-    <link href="css/default.css" rel="stylesheet" />
-    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+<!--Preferred Name-->
+<h1>Dallan Hernandez</h1>
 
-    <!--Putting in the favicon (picture of myself)-->
-    <link rel="icon" type="image/x-icon" href="favicon/Favicon/favicon_io/favicon.ico" />
-</head>
-<body>
-    <!--Preferred Name-->
-    <h1>Dallan Hernandez</h1>
+<!--Image of me right before I go and play ultimate frisbee-->
+<img style="height: 400px; width: 300px;" src="img/Dallan.jpeg" />
 
-    <!--Image of me right before I go and play ultimate frisbee-->
-    <img style="height: 400px; width: 300px;" src="img/Dallan.jpeg" />
+<!--Paragraph describing what I want to get out of this semester-->
+<p>
+    There are many things that I want to get out of this class during the semester. However, here are my top three: first, I want to gain a
+    deeper understanding of creating web applications using the ASP.NET MVC Framework. Second, I want to become familiar with C#. Finally,
+    I want to be able to interact with APIs on a basic level.
+</p>
+<br />
 
-    <!--Paragraph describing what I want to get out of this semester-->
-    <p>
-        There are many things that I want to get out of this class during the semester. However, here are my top three: first, I want to gain a
-        deeper understanding of creating web applications using the ASP.NET MVC Framework. Second, I want to become familiar with C#. Finally,
-        I want to be able to interact with APIs on a basic level.
-    </p>
-    <br />
+<!--List of my top 3 wanted jobs after graduation-->
+<h3>Most wanted Jobs</h3>
+<ol>
+    <li>Full Stack Developer</li>
+    <li>Front End Developer</li>
+    <li>Database Administrator</li>
+</ol>
+<br />
 
-    <!--List of my top 3 wanted jobs after graduation-->
-    <h3>Most wanted Jobs</h3>
-    <ol>
-        <li>Full Stack Developer</li>
-        <li>Front End Developer</li>
-        <li>Database Administrator</li>
-    </ol>
-    <br />
 
-    <!--Grade Calculator-->
-    <h3>Grade Calculator</h3>
-    <form>
-        <label>Assignments:</label>
-        <input id="txtassignments" type="number" />
-        <br /><br />
-        <label>Group Projects:</label>
-        <input id="txtgroup" type="number" />
-        <br /><br />
-        <label>Quizzes:</label>
-        <input id="txtquiz" type="number" />
-        <br /><br />
-        <label>Exams:</label>
-        <input id="txtexam" type="number" />
-        <br /><br />
-        <label>INTEX:</label>
-        <input id="txtintex" type="number" />
-        <br /><br />
-        <button type="submit" id="submit">Calculate Grade</button>
-        <br />
-        <br />
-        <br />
-    </form>
-
-    <!--Connecting my js bootstrap library-->
-    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-    <script src="lib/jquery/jquery-3.6.0.min.js"></script>
-    <script src="js/grade.js"></script>
-</body>
-</html>
+<!--Connecting my js bootstrap library-->
+    
+<script src="js/grade.js"></script>

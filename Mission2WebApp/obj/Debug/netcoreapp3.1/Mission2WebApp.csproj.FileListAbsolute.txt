@@ -29,3 +29,8 @@
 /Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.Views.pdb
 /Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Mission2WebApp.csproj.CopyComplete
 /Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Razor/Views/blah/Index.cshtml.g.cs
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/bin/Debug/netcoreapp3.1/mono_crash.11a67480d0.0.json
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Razor/Views/blah/Grade_Calc.cshtml.g.cs
+/Users/dallanhernandez/Documents/GitHub/MIssion2WebApp/Mission2WebApp/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs

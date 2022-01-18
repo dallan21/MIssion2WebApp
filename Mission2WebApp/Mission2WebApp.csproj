@@ -26,13 +26,13 @@
     <Folder Include="Views\" />
     <Folder Include="Contorllers\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\blahcontroller\" />
+    <Folder Include="Views\Shared\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Views\" />
     <None Remove="Views\SubView\" />
     <None Remove="Contorllers\" />
     <None Remove="Models\" />
-    <None Remove="Views\blahcontroller\" />
+    <None Remove="Views\Shared\" />
   </ItemGroup>
 </Project>
